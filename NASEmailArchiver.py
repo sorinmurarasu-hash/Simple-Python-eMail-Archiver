@@ -13,9 +13,9 @@ def clean_and_format(text):
     return fname[0:128]
 
 # account credentials
-username = "arhiva@murarasu.com"
-password = "RunaMiruna456"
-imap_server = "mail.murarasu.com"
+username = "arhiva@myDomain"
+password = "MySecretPassword"
+imap_server = "DomainImapServer"
 
 ##NAS Linux storage
 storage_location = "/Volume1/MailArchive/" + str(datetime.now().year) + "/"
