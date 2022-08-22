@@ -13,7 +13,7 @@ def clean_and_format(text):
     return fname[0:128]
 
 # account credentials
-username = "arhiva@myDomain"
+username = "archive@myDomain"
 password = "MySecretPassword"
 imap_server = "DomainImapServer"
 
